@@ -1,1 +1,1 @@
-# haskell-programming
+# HASKELL_PROGRAMMING
